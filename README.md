@@ -1,10 +1,13 @@
+
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://gokulgunjar.io)
 
 <h1 align="center">Hi 👋, I'm Gokul Gunjar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
+
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul2002-arch&label=Profile%20views&color=0e75b6&style=flat" alt="gokul2002-arch" /> </p>
 
 - 🔭 I’m currently working on **Agri Vision**
@@ -28,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul2002-arch&show_icons=true&locale=en&layout=compact" alt="gokul2002-arch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokul2002-arch&show_icons=true&locale=en" alt="Gokul2002-arch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul2002-arch&show_icons=true&locale=en" alt="gokul2002-arch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul2002-arch&" alt="Gokul2002-arch" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul2002-arch&" alt="gokul2002-arch" /></p>
