@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul2002-arch&show_icons=true&locale=en&layout=compact" alt="gokul2002-arch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul2002-arch&show_icons=true&locale=en" alt="gokul2002-arch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokul2002-arch&show_icons=true&locale=en" alt="Gokul2002-arch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul2002-arch&" alt="gokul2002-arch" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul2002-arch&" alt="Gokul2002-arch" /></p>
